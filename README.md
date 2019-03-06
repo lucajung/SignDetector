@@ -1,7 +1,7 @@
 # SignDetector
 SignDetector is a application that learns to understand your drawings.
-For example it can detect character, digits or even drawings. 
-
+For example it can detect character, digits or even drawings.<br>
+<img src="/images/SignDetector.png" width="300">
 
 How does it work?
 ---
